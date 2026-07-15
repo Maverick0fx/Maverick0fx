@@ -169,13 +169,7 @@ My goal is to become a highly skilled Data Analyst who helps organizations make 
 
 ---
 
-# 📫 Connect With Me
 
-📧 Email  
-**iseoluwaduyilemi@gmail.com**
-
-💼 LinkedIn  
-**https://www.linkedin.com/in/iseoluwa-alabi-2a7976250**
 
 ---
 
