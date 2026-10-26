@@ -11,7 +11,7 @@ I enjoy solving real-world business problems using Excel, SQL, and Power BI by c
 
 - 📊 Passionate about Data Analytics and Business Intelligence
 - 📈 Building interactive dashboards using Excel and Power BI
-- 📚 Skilled in SQL, Excel, and Power BI
+- 📚 Skilled in SQL, Excel, and Power BI, Tableu
 - 🧹 Experienced in data cleaning, transformation, and analysis
 - 💡 Turning business data into actionable insights
 - 🌍 Based in Nigeria
